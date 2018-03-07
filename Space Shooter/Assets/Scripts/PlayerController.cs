@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿/* Brandon Riley
+ * 3/7/2018
+ * Lets you move the ship, and shoot 
+ */
+using UnityEngine;
 using System.Collections;
 using UnityEngine.Audio;
 

@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Brandon Riley
+ * 3/7/2018
+ * Starts the game, spawns hazard waves, shows score, shows game over, and lets you restart 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

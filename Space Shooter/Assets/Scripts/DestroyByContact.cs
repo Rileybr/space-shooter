@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Brandon Riley
+ * 3/7/2018
+ * destorys hazards when they hit a shot or destroys both the hazard and ship if they collide 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
